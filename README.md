@@ -1,4 +1,4 @@
-- 👋 Hi, 我是Quintus
+- 👋 Hi, 我是Quint酷兔
 - 👀 我对人工智能，Java开发特别感兴趣。希望能寻找到一起学习的小伙伴
 - 🌱 我正在学习Java高级知识，努力朝着大牛的方向前进
 - 📫 邮箱：huanghuiqiang@1111.gmail.com
